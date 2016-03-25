@@ -1,8 +1,8 @@
 package intgr
 
 import (
-	"code.google.com/p/intmath/constants/c32"
-	"code.google.com/p/intmath/constants/c64"
+	"github.com/jaybennett89/intmath/constants/c32"
+	"github.com/jaybennett89/intmath/constants/c64"
 )
 
 // TrailingZeros returns a byte with the number of trailing 0 bits in v. 

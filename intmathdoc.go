@@ -73,7 +73,7 @@ As mentioned before, the speed of modern FPUs should not be
 underestimated. Benchmarking is advised to see if your system 
 actually benefits form this library. To do this run go test:
 
- go test code.google.com/p/intmath -test.bench="Benchmark*"
+ go test github.com/jaybennett89/intmath -test.bench="Benchmark*"
 
 Some benchmarks also include alternate implementations for
 different functions. These might just be more effective on your 
